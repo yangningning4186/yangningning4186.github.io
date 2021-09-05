@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>奈斯的小窝</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-09-05T07:58:32.738Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2021/09/04/hello-world/"/>
+    <id>http://example.com/2021/09/04/hello-world/</id>
+    <published>2021-09-04T12:34:13.963Z</published>
+    <updated>2021-09-05T07:58:32.738Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="热烈庆祝奈斯的小窝搭建成功"><a href="#热烈庆祝奈斯的小窝搭建成功" class="headerlink" title="热烈庆祝奈斯的小窝搭建成功"></a><p align="center">热烈庆祝奈斯的小窝搭建成功</p></h1><blockquote><p>作者：热心铲屎官小杨</p><div align="middle"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=33856223&auto=1&height=66"></iframe></div></blockquote><p>​        </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;热烈庆祝奈斯的小窝搭建成功&quot;&gt;&lt;a href=&quot;#热烈庆祝奈斯的小窝搭建成功&quot; class=&quot;headerlink&quot; title=&quot;热烈庆祝奈斯的小窝搭建成功&quot;&gt;&lt;/a&gt;&lt;p align=&quot;center&quot;&gt;热烈庆祝奈斯的小窝搭建成功&lt;/p&gt;&lt;/h1&gt;&lt;blockq</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
